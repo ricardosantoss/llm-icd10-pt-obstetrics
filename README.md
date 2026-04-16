@@ -3,11 +3,7 @@
 This repository contains the experimental pipeline, evaluation code, and
 analysis notebooks accompanying the paper:
 
-**“Large Language Models for Automated ICD-10 Coding of Obstetric Clinical Notes in Portuguese”**
-
-The study benchmarks multiple large language models (LLMs) for hierarchical
-ICD-10 coding of Brazilian Portuguese obstetric discharge notes and compares
-their performance against human inter-annotator agreement.
+**“Evaluating Large Language Models for Hierarchical ICD-10 Coding of Obstetric Clinical Notes in Brazilian Portuguese”**
 
 ---
 
