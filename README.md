@@ -7,7 +7,7 @@ analysis notebooks accompanying the paper:
 
 ---
 
-## 📌 Overview
+## Overview
 
 Automatic ICD-10 coding from free-text clinical notes remains a challenging
 problem, particularly in languages other than English.  
@@ -24,7 +24,7 @@ a fully reproducible, modular pipeline.
 
 ---
 
-## 🧠 Models Evaluated
+## Models Evaluated
 
 The benchmark includes the following models (accessed via API):
 
@@ -40,7 +40,7 @@ ICD-10 normalization and regex-based filtering.
 
 ---
 
-## 🔁 Experimental Pipeline
+## Experimental Pipeline
 
 The workflow is organized into six sequential notebooks:
 
@@ -70,7 +70,7 @@ Each notebook is self-documented and can be read independently.
 
 ---
 
-## 📊 Evaluation and Statistics
+## Evaluation and Statistics
 
 - Task: multi-label ICD-10 assignment from full discharge notes
 - Metrics: micro- and macro-averaged precision, recall, and F1-score
@@ -82,7 +82,7 @@ Each notebook is self-documented and can be read independently.
 
 ---
 
-## 🔐 Data Availability and Ethics
+## Data Availability and Ethics
 
 Clinical data used in this study are **not included** in this repository due to
 privacy and ethical constraints.
